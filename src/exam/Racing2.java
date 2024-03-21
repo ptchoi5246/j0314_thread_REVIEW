@@ -1,4 +1,4 @@
-package t4_Properties;
+package exam;
 
 import java.util.Scanner;
 
